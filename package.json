@@ -1,7 +1,7 @@
 {
   "name": "gulp-pre",
   "description": "The streaming build system",
-  "version": "4.0.0-alpha.4",
+  "version": "4.0.0-alpha.5",
   "homepage": "http://gulpjs.com",
   "repository": "mgcrea/gulp",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
@@ -24,7 +24,7 @@
   "man": "gulp.1",
   "dependencies": {
     "chokidar": "^1.2.0",
-    "gulp-cli": "gulpjs/gulp-cli#4.0",
+    "gulp-cli": "^1.2.1",
     "undertaker": "^0.12.0",
     "vinyl-fs": "^2.0.0"
   },
